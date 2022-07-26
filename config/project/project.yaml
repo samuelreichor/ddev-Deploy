@@ -1,0 +1,22 @@
+dateModified: 1658818406
+email:
+  fromEmail: samuelreichor@gmail.com
+  fromName: voi-entspannt
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    23ccbf1d-3a8f-41cf-92f1-b1880f28fa36: voi-entspannt
+    af96209b-6bae-4be7-9654-25c0a612b39f: Common
+    e6446028-633e-47f4-8f0c-6eeefaba6d58: voi-entspannt
+system:
+  edition: solo
+  live: true
+  name: voi-entspannt
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
